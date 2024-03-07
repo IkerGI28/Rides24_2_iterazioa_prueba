@@ -1,0 +1,285 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 20:58:37 #1 store] 
+Database 'C:\Users\Kilke\OneDrive\Escritorio\Iker Galarraga IIG\2º\2º cuatri\SI\Proiektuaren lehenengo iterazioa\Rides24\src\main\resources\rides.temp' is opened by 15100@Kilker2004
+
+[2024-02-27 20:58:37 #2 type.registry] 
+New type domain.User
+
+[2024-02-27 20:58:37 #3 type.registry] 
+New type domain.Driver
+
+[2024-02-27 20:58:37 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:01:38 #1 server] 
+Server on port 6136 has started by 18984@DESKTOP-77D9MUV
+
+[2024-02-27 22:01:53 #2 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 18984@DESKTOP-77D9MUV
+
+[2024-02-27 22:01:56 #3 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 18984@DESKTOP-77D9MUV
+
+[2024-02-27 22:01:56 #4 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 18984@DESKTOP-77D9MUV
+
+[2024-02-27 22:02:04 #5 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 18984@DESKTOP-77D9MUV
+
+[2024-02-27 22:02:04 #6 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 18984@DESKTOP-77D9MUV
+
+[2024-02-27 22:02:13 #7 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 18984@DESKTOP-77D9MUV
+
+[2024-02-27 22:02:13 #8 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 18984@DESKTOP-77D9MUV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:02:28 #1 type.registry] 
+New type domain.User
+
+[2024-02-27 22:02:28 #2 type.registry] 
+New type domain.Driver
+
+[2024-02-27 22:02:28 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-02-27 22:02:28 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-27 22:02:28 #5 type.registry] 
+New type domain.Ride
+
+[2024-02-27 22:02:28 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-27 22:02:28 #7 type.registry] 
+New type domain.Bidaiaria
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:03:17 #1 type] 
+Type domain.User is not enhanced.
+
+[2024-02-27 22:03:17 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-27 22:03:17 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-27 22:03:17 #4 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2024-02-27 22:03:17 #9 type.user] 
+Enhancement of type domain.Bidaiaria is old and cannot be used (2286869800668229452:-1921500564515563471)
+
+[2024-02-27 22:03:17 #10 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2024-02-27 22:03:17 #5 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-02-27 22:03:17 #11 type.user] 
+Enhancement of type domain.Bidaiaria is old and cannot be used (2286869800668229452:-1921500564515563471)
+
+[2024-02-27 22:03:17 #6 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-02-27 22:03:17 #12 type.user] 
+Enhancement of type domain.Bidaiaria is old and cannot be used (2286869800668229452:-1921500564515563471)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:04:15 #1 type] 
+Type domain.User is not enhanced.
+
+[2024-02-27 22:04:15 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-27 22:04:15 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-27 22:04:15 #4 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2024-02-27 22:04:39 #13 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 18984@DESKTOP-77D9MUV
+
+[2024-02-27 22:04:39 #14 server] 
+Server on port 6136 has stopped by 18984@DESKTOP-77D9MUV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:05:04 #1 server] 
+Server on port 6136 has started by 1484@DESKTOP-77D9MUV
+
+[2024-02-27 22:05:11 #2 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 1484@DESKTOP-77D9MUV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:05:11 #1 type] 
+Type domain.User is not enhanced.
+
+[2024-02-27 22:05:11 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-27 22:05:11 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-27 22:05:11 #4 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2024-02-27 22:05:14 #3 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 1484@DESKTOP-77D9MUV
+
+[2024-02-27 22:05:17 #4 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 1484@DESKTOP-77D9MUV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:05:17 #1 type] 
+Type domain.User is not enhanced.
+
+[2024-02-27 22:05:17 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-27 22:05:17 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-27 22:05:17 #4 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2024-02-27 22:05:20 #5 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 1484@DESKTOP-77D9MUV
+
+[2024-02-27 22:08:00 #6 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 1484@DESKTOP-77D9MUV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:08:00 #1 type] 
+Type domain.User is not enhanced.
+
+[2024-02-27 22:08:00 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-27 22:08:00 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-27 22:08:00 #4 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2024-02-27 22:08:16 #7 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 1484@DESKTOP-77D9MUV
+
+[2024-02-27 22:08:42 #8 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 1484@DESKTOP-77D9MUV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:08:42 #1 type] 
+Type domain.User is not enhanced.
+
+[2024-02-27 22:08:42 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-27 22:08:42 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-27 22:08:42 #4 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2024-02-27 22:08:50 #9 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 1484@DESKTOP-77D9MUV
+
+[2024-02-27 22:09:31 #10 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 1484@DESKTOP-77D9MUV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:09:32 #1 type] 
+Type domain.User is not enhanced.
+
+[2024-02-27 22:09:32 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-27 22:09:32 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-27 22:09:32 #4 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2024-02-27 22:09:44 #11 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 1484@DESKTOP-77D9MUV
+
+[2024-02-27 22:10:10 #12 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 1484@DESKTOP-77D9MUV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:10:10 #1 type] 
+Type domain.User is not enhanced.
+
+[2024-02-27 22:10:10 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-27 22:10:10 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-27 22:10:10 #4 type] 
+Type domain.Bidaiaria is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:11:56 #1 type] 
+Type domain.User is not enhanced.
+
+[2024-02-27 22:11:56 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-27 22:11:56 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-27 22:11:56 #4 type] 
+Type domain.Bidaiaria is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:14:02 #1 type] 
+Type domain.User is not enhanced.
+
+[2024-02-27 22:14:02 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-27 22:14:02 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-27 22:14:02 #4 type] 
+Type domain.Bidaiaria is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-27 22:15:56 #1 type] 
+Type domain.User is not enhanced.
+
+[2024-02-27 22:15:56 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-27 22:15:56 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-27 22:15:56 #4 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2024-02-27 22:19:37 #13 store] 
+Database 'C:\Users\jonoo\Desktop\Cosas\Nueva carpeta\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 1484@DESKTOP-77D9MUV
+
+[2024-02-27 22:19:37 #14 server] 
+Server on port 6136 has stopped by 1484@DESKTOP-77D9MUV
+
